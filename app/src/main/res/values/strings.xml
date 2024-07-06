@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Catapult</string>
+    <string name="temperament">Temperament</string>
+    <string name="aka">AKA</string>
+    <string name="desc">Description</string>
+    <string name="origin">Country of Origin</string>
+    <string name="lifespan">Lifespan</string>
+    <string name="years">Years</string>
+    <string name="social_needs">Social Needs</string>
+    <string name="shedding">Shedding Level</string>
+    <string name="health">Health Issues</string>
+    <string name="child">Child Friendly</string>
+    <string name="dog">Dog Friendly</string>
+    <string name="adapt">Adaptability</string>
+    <string name="affect">Affection Level</string>
+    <string name="rare">Rare</string>
+    <string name="not_rare">Not Rare</string>
+    <string name="weight">Average Weight</string>
+    <string name="wiki">Wikipedia</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="sure">Are You sure?</string>
+    <string name="sure_leave">This will open the Wikipedia page in another app.</string>
+    <string name="failed_load">Failed to load. Error Message</string>
+    <string name="no_breeds">There are no breeds for your search query, or the database is empty.</string>
+    <string name="loading">Loading</string>
+</resources>
